@@ -14,6 +14,12 @@
 \contentsline {subsubsection}{\numberline {2.3.1}고정 소수점 방식 실수 표현}{7}%
 \contentsline {subsubsection}{\numberline {2.3.2}부동 소수점 방식 실수 표현}{8}%
 \contentsline {subsection}{\numberline {2.4}문자}{9}%
-\contentsline {section}{\numberline {3}논리 연산}{10}%
+\contentsline {subsection}{\numberline {2.5}이미지}{10}%
+\contentsline {section}{\numberline {3}논리 연산}{11}%
 \contentsline {subsection}{\numberline {3.1}논리합과 논리 부정}{11}%
-\contentsline {subsection}{\numberline {3.2}논리합과 논리 부정을 통한 기타 논리 연산의 구현}{11}%
+\contentsline {subsection}{\numberline {3.2}논리합과 논리 부정을 통한 기타 논리 연산의 구현}{12}%
+\contentsline {section}{\numberline {4}나의 생각}{12}%
+\contentsline {subsection}{\numberline {4.1}세상을 인식하는 방법}{12}%
+\contentsline {subsection}{\numberline {4.2}기술 발전에 따른 기술 갈등 발생}{13}%
+\contentsline {subsection}{\numberline {4.3}이 활동을 진행하면서 생각한 점}{13}%
+\contentsline {section}{\numberline {5}참고문헌}{13}%
