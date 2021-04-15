@@ -12,11 +12,11 @@
 \contentsline {subsubsection}{\numberline {2.2.3}정수의 연산}{8}%
 \contentsline {subsection}{\numberline {2.3}유리수}{9}%
 \contentsline {subsubsection}{\numberline {2.3.1}고정 소수점 방식 실수 표현}{9}%
-\contentsline {subsubsection}{\numberline {2.3.2}부동 소수점 방식 실수 표현}{9}%
+\contentsline {subsubsection}{\numberline {2.3.2}부동 소수점 방식 실수 표현}{10}%
 \contentsline {subsection}{\numberline {2.4}문자}{10}%
 \contentsline {subsection}{\numberline {2.5}이미지}{12}%
 \contentsline {subsubsection}{\numberline {2.5.1}이미지의 물리적 특성과 전산화 방법}{12}%
-\contentsline {subsubsection}{\numberline {2.5.2}이미지 압축}{12}%
+\contentsline {subsubsection}{\numberline {2.5.2}이미지 압축}{13}%
 \contentsline {subsection}{\numberline {2.6}오디오}{13}%
 \contentsline {subsubsection}{\numberline {2.6.1}소리의 물리적 특성과 전산화}{13}%
 \contentsline {subsubsection}{\numberline {2.6.2}오디오 압축}{13}%
